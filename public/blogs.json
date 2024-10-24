@@ -1,7 +1,7 @@
 [
 	{
 	  "id": 1,
-	  "cover": "https://images.unsplash.com/photo-1532619118727-3bdb6bc2f41f",
+	  "cover": "https://i.ibb.co/qpSZnWf/1.jpg",
 	  "title": "The Art of JavaScript",
 	  "author": "John Doe",
 	  "author_img": "https://randomuser.me/api/portraits/men/32.jpg",
@@ -11,7 +11,7 @@
 	},
 	{
 	  "id": 2,
-	  "cover": "https://images.unsplash.com/photo-1504384308090-c894fdcc538d",
+	  "cover": "https://i.ibb.co/Wtx4SV4/2.png",
 	  "title": "Mastering CSS Grid",
 	  "author": "Jane Smith",
 	  "author_img": "https://randomuser.me/api/portraits/women/44.jpg",
@@ -21,7 +21,7 @@
 	},
 	{
 	  "id": 3,
-	  "cover": "https://images.unsplash.com/photo-1498050108023-c5249f4df085",
+	  "cover": "https://i.ibb.co/jgP8506/3.png",
 	  "title": "React for Beginners",
 	  "author": "Alex Brown",
 	  "author_img": "https://randomuser.me/api/portraits/men/46.jpg",
@@ -31,7 +31,7 @@
 	},
 	{
 	  "id": 4,
-	  "cover": "https://images.unsplash.com/photo-1522071820081-009f0129c71c",
+	  "cover": "https://i.ibb.co/ZJxZYKS/4.jpg",
 	  "title": "Understanding Node.js",
 	  "author": "Emily White",
 	  "author_img": "https://randomuser.me/api/portraits/women/68.jpg",
